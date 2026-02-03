@@ -1,0 +1,1364 @@
+{
+  "person": "causal_analysis",
+  "roadmap_data": {
+    "Firas Baba": {
+      "person_metadata": {
+        "name": "Firas Baba",
+        "total_goals": 3,
+        "processing_timestamp": "2025-07-31T03:36:59.743606"
+      },
+      "goals": {
+        "goal1": {
+          "goal_metadata": {
+            "title": "Data Scientist at boost.ai",
+            "duration": "2 years",
+            "total_milestones": 8,
+            "analysis_timestamp": "2025-07-31T03:37:09.996145"
+          },
+          "milestones": [
+            {
+              "id": "m1",
+              "description": "Complete Bachelor's degree in Telecommunications Engineering from SUP'COM",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m2",
+              "description": "Intern as a Data Scientist at an organization in Sfax, Tunisia",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m3",
+              "description": "Work as an AI Engineer at InstaDeep Ltd in Tunisia",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m4",
+              "description": "Develop proficiency in Python programming",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m5",
+              "description": "Gain experience in Deep Learning",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m6",
+              "description": "Acquire skills in Data Science during internship",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m7",
+              "description": "Master pandas and numpy libraries",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m8",
+              "description": "Complete online course on Neural Networks and Deep Learning",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            }
+          ],
+          "causal_relationships": [
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "prerequisite",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Must have completed at least 3 years of the Bachelor's program to qualify for most internship programs in Tunisia",
+              "mechanism": "The engineering degree provides the academic credential that internship programs require before allowing students to work on real data-science problems",
+              "confidence": 0.95,
+              "reasoning": "boost.ai and similar Nordic AI companies expect candidates to have a solid quantitative/engineering foundation; the SUP'COM degree is the entry ticket that unlocks internship eligibility and signals technical rigor to future employers."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m3",
+              "relationship_type": "prerequisite",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Graduation certificate must be awarded before full-time employment contract can be signed",
+              "mechanism": "InstaDeep\u2019s standard offer process requires an attested degree for work-permit and HR compliance",
+              "confidence": 0.9,
+              "reasoning": "Without the Bachelor\u2019s credential, the candidate cannot legally hold an AI Engineer title in Tunisia, blocking the path toward the seniority boost.ai expects."
+            },
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m7",
+              "relationship_type": "direct_cause",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Learner must have basic Python syntax and environment familiarity",
+              "mechanism": "Python proficiency allows the learner to import, manipulate, and benchmark pandas/numpy operations, turning abstract knowledge into usable skill",
+              "confidence": 0.92,
+              "reasoning": "boost.ai\u2019s codebase is Python-centric; mastery of pandas/numpy is impossible without prior comfort in Python itself."
+            },
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m5",
+              "relationship_type": "enables",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "None beyond basic Python fluency",
+              "mechanism": "Deep-learning frameworks (TensorFlow, PyTorch) are Python-based; solid Python skills lower the barrier to experimenting with neural networks",
+              "confidence": 0.88,
+              "reasoning": "boost.ai uses PyTorch for NLP models; a candidate who already codes fluently in Python can ramp up on Deep Learning faster."
+            },
+            {
+              "prerequisite_id": "m7",
+              "dependent_id": "m6",
+              "relationship_type": "supports",
+              "strength": 0.7,
+              "bidirectional": false,
+              "conditions": "Internship project must involve tabular or text data processing",
+              "mechanism": "pandas/numpy skills accelerate data-cleaning and feature-engineering tasks assigned during the internship",
+              "confidence": 0.85,
+              "reasoning": "boost.ai values candidates who can demonstrate end-to-end data handling; internship output quality is higher when these libraries are mastered."
+            },
+            {
+              "prerequisite_id": "m8",
+              "dependent_id": "m5",
+              "relationship_type": "direct_cause",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Course must include hands-on labs or projects",
+              "mechanism": "Structured coursework provides theoretical background plus coding assignments that translate directly into Deep Learning experience",
+              "confidence": 0.9,
+              "reasoning": "boost.ai\u2019s interview loop tests practical DL knowledge; completing a reputable online course supplies both concepts and portfolio artifacts."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m3",
+              "relationship_type": "temporal",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Internship must be completed before graduation or within 6 months after",
+              "mechanism": "Recruiters treat internship experience as a junior signal that justifies offering an Engineer title rather than another internship",
+              "confidence": 0.82,
+              "reasoning": "boost.ai prefers candidates with prior industry exposure; the internship serves as a stepping-stone that shortens the ramp-up time compared to hiring a fresh graduate."
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m3",
+              "relationship_type": "supports",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Deep Learning experience must be demonstrable via projects or Kaggle rankings",
+              "mechanism": "InstaDeep\u2019s AI Engineer role involves implementing and tuning DL models; prior experience raises the candidate\u2019s profile",
+              "confidence": 0.8,
+              "reasoning": "boost.ai\u2019s conversational AI stack relies on transformer-based models; proven DL competence gained at InstaDeep is persuasive evidence."
+            },
+            {
+              "prerequisite_id": "m6",
+              "dependent_id": "m3",
+              "relationship_type": "mutual_reinforcement",
+              "strength": 0.7,
+              "bidirectional": true,
+              "conditions": "Skills acquired during internship must be aligned with production-grade ML engineering",
+              "mechanism": "Internship experience feeds into stronger performance as an AI Engineer, which in turn deepens practical Data-Science skills",
+              "confidence": 0.78,
+              "reasoning": "boost.ai values iterative growth; the synergy between internship-acquired DS skills and InstaDeep engineering experience creates a compelling narrative."
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m8",
+              "relationship_type": "conditional",
+              "strength": 0.65,
+              "bidirectional": false,
+              "conditions": "Only if the AI Engineer role did not already cover advanced DL topics",
+              "mechanism": "If InstaDeep\u2019s projects were focused on classical ML, the candidate may still need targeted Deep Learning upskilling via an online course",
+              "confidence": 0.7,
+              "reasoning": "boost.ai may probe deeper into seq2seq or attention mechanisms; a supplemental course fills any remaining gaps."
+            }
+          ],
+          "network_analysis": {
+            "total_relationships": 10,
+            "critical_path": [
+              "m4",
+              "m8",
+              "m3",
+              "m6",
+              "m5",
+              "m7"
+            ],
+            "bottlenecks": [
+              "m3",
+              "m5"
+            ],
+            "foundational_milestones": [
+              "m1",
+              "m4"
+            ],
+            "advanced_milestones": [],
+            "relationship_density": 0.17857142857142858
+          },
+          "insights": {
+            "complexity_score": 1.25,
+            "relationship_types_used": [
+              "prerequisite",
+              "conditional",
+              "supports",
+              "enables",
+              "mutual_reinforcement",
+              "temporal",
+              "direct_cause"
+            ],
+            "average_confidence": 0.85,
+            "strongest_relationships": [
+              {
+                "from": "m1",
+                "to": "m2",
+                "type": "prerequisite",
+                "strength": 0.9
+              },
+              {
+                "from": "m1",
+                "to": "m3",
+                "type": "prerequisite",
+                "strength": 0.85
+              },
+              {
+                "from": "m8",
+                "to": "m5",
+                "type": "direct_cause",
+                "strength": 0.85
+              }
+            ],
+            "career_progression_pattern": "flexible_progression",
+            "key_bottlenecks": [
+              "m3",
+              "m5"
+            ],
+            "foundational_requirements": [
+              "m1",
+              "m4"
+            ]
+          }
+        },
+        "goal2": {
+          "goal_metadata": {
+            "title": "Quantitative Researcher at Qube Research & Technologies",
+            "duration": "2 years",
+            "total_milestones": 8,
+            "analysis_timestamp": "2025-07-31T03:37:18.906645"
+          },
+          "milestones": [
+            {
+              "id": "m1",
+              "description": "Serve as a Data Scientist at boost.ai",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m2",
+              "description": "Hold the position of Machine Learning Engineer at boost.ai",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m3",
+              "description": "Achieve Competitions Master status on Kaggle",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m4",
+              "description": "Earn gold and silver medals in Kaggle competitions",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m5",
+              "description": "Attain 1st place in RSNA-MICCAI Brain Tumor Radiogenomic Classification competition on Kaggle",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m6",
+              "description": "Complete Generative AI with Large Language Models certification",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m7",
+              "description": "Develop expertise in developing quantitative models and strategies",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m8",
+              "description": "Gain experience in applying machine learning in real-world scenarios",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            }
+          ],
+          "causal_relationships": [
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m3",
+              "relationship_type": "prerequisite",
+              "strength": 0.95,
+              "bidirectional": false,
+              "conditions": "Need at least one gold and multiple silver medals to reach Master tier",
+              "mechanism": "Kaggle awards points per medal; Master status requires cumulative points that can only be reached after earning gold/silver medals",
+              "confidence": 0.98,
+              "reasoning": "QRT values demonstrated excellence in competitive data science; Master status is impossible without prior medals, making this a strict prerequisite."
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m5",
+              "relationship_type": "enables",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Master-level feature engineering and modeling skills",
+              "mechanism": "Master tier grants access to higher-level competitions and collaborations that increase odds of a 1st-place finish",
+              "confidence": 0.9,
+              "reasoning": "A 1st-place finish in a high-profile medical-imaging competition is a strong signal for QRT\u2019s quant-research roles; Master status both qualifies and socially enables participation in elite teams."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m1",
+              "relationship_type": "temporal",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Typical internal promotion path at boost.ai",
+              "mechanism": "Engineers who prove they can ship ML systems are often promoted to DS roles that focus on experimentation and strategy",
+              "confidence": 0.85,
+              "reasoning": "QRT looks for evidence of increasing responsibility; moving from MLE \u2192 DS at the same firm shows a quantitatively driven growth trajectory."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m7",
+              "relationship_type": "direct_cause",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Access to production trading-adjacent data (chatbot intent prediction \u2192 demand forecasting)",
+              "mechanism": "As a Data Scientist at boost.ai, one designs A/B tests and predictive models that translate directly to quantitative-strategy development",
+              "confidence": 0.92,
+              "reasoning": "QRT\u2019s researchers build statistical models for alpha; prior experience designing and validating such models in industry is direct preparation."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m8",
+              "relationship_type": "direct_cause",
+              "strength": 0.88,
+              "bidirectional": false,
+              "conditions": "End-to-end ownership of ML pipelines",
+              "mechanism": "Engineers deploy models to thousands of conversations, gaining real-world robustness experience",
+              "confidence": 0.9,
+              "reasoning": "QRT needs researchers who understand model failure modes in live environments; MLE experience provides this."
+            },
+            {
+              "prerequisite_id": "m8",
+              "dependent_id": "m7",
+              "relationship_type": "supports",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Exposure to noisy, non-stationary data",
+              "mechanism": "Real-world ML teaches regularization and regime-shift detection\u2014skills essential for quant models",
+              "confidence": 0.8,
+              "reasoning": "While not strictly required, prior real-world ML experience makes the transition to quantitative-strategy design smoother and more credible."
+            },
+            {
+              "prerequisite_id": "m6",
+              "dependent_id": "m7",
+              "relationship_type": "supports",
+              "strength": 0.7,
+              "bidirectional": false,
+              "conditions": "Focus on generative modeling for synthetic data generation",
+              "mechanism": "LLM-based generative techniques can augment limited financial datasets, a key technique in modern quant research",
+              "confidence": 0.78,
+              "reasoning": "QRT is exploring generative models for feature expansion; certification provides theoretical and practical grounding."
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m7",
+              "relationship_type": "supports",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Top-1 finish demonstrates ability to extract signal from high-dimensional medical imaging data",
+              "mechanism": "Transferable skill: extracting weak signals generalizes to extracting alpha from market data",
+              "confidence": 0.85,
+              "reasoning": "QRT values competition victories as proof of research creativity and rigorous validation\u2014both crucial for quantitative strategy development."
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m7",
+              "relationship_type": "supports",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Master tier indicates consistent high-level performance",
+              "mechanism": "Reputation and network effects open doors to quant research collaborations",
+              "confidence": 0.8,
+              "reasoning": "Recruiters at QRT monitor Kaggle Masters; achieving this status increases visibility and perceived competence."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m6",
+              "relationship_type": "enables",
+              "strength": 0.65,
+              "bidirectional": false,
+              "conditions": "Company sponsorship or time allocation for upskilling",
+              "mechanism": "Data Scientists at boost.ai are encouraged to pursue cutting-edge certifications",
+              "confidence": 0.7,
+              "reasoning": "While not mandatory, holding a DS role makes it logistically and financially easier to complete advanced certifications."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m4",
+              "relationship_type": "supports",
+              "strength": 0.6,
+              "bidirectional": false,
+              "conditions": "Evening/weekend availability for competitions",
+              "mechanism": "MLE role builds core modeling skills that accelerate competition performance",
+              "confidence": 0.75,
+              "reasoning": "Strong engineering skills reduce iteration time in competitions, indirectly boosting medal count."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m4",
+              "relationship_type": "supports",
+              "strength": 0.55,
+              "bidirectional": false,
+              "conditions": "Exposure to business KPIs sharpens feature engineering intuition",
+              "mechanism": "DS role teaches how to translate business problems into modeling tasks\u2014useful for competition framing",
+              "confidence": 0.7,
+              "reasoning": "Although not required, DS experience can improve competition performance by aligning solutions with implicit objectives."
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m4",
+              "relationship_type": "mutual_reinforcement",
+              "strength": 0.7,
+              "bidirectional": true,
+              "conditions": "Medals accumulate points toward Master tier",
+              "mechanism": "A 1st-place gold medal yields large point gains, while prior medals lower the barrier to entering and winning future competitions",
+              "confidence": 0.8,
+              "reasoning": "Success in one high-stakes competition boosts confidence and skill, leading to more medals and faster Master progression."
+            }
+          ],
+          "network_analysis": {
+            "total_relationships": 13,
+            "critical_path": [
+              "m2",
+              "m3",
+              "m5",
+              "m1",
+              "m4",
+              "m6"
+            ],
+            "bottlenecks": [
+              "m7",
+              "m4"
+            ],
+            "foundational_milestones": [
+              "m2"
+            ],
+            "advanced_milestones": [
+              "m7"
+            ],
+            "relationship_density": 0.23214285714285715
+          },
+          "insights": {
+            "complexity_score": 1.625,
+            "relationship_types_used": [
+              "prerequisite",
+              "supports",
+              "enables",
+              "mutual_reinforcement",
+              "temporal",
+              "direct_cause"
+            ],
+            "average_confidence": 0.8253846153846153,
+            "strongest_relationships": [
+              {
+                "from": "m4",
+                "to": "m3",
+                "type": "prerequisite",
+                "strength": 0.95
+              },
+              {
+                "from": "m1",
+                "to": "m7",
+                "type": "direct_cause",
+                "strength": 0.9
+              },
+              {
+                "from": "m2",
+                "to": "m8",
+                "type": "direct_cause",
+                "strength": 0.88
+              }
+            ],
+            "career_progression_pattern": "flexible_progression",
+            "key_bottlenecks": [
+              "m7",
+              "m4"
+            ],
+            "foundational_requirements": [
+              "m2"
+            ]
+          }
+        },
+        "goal3": {
+          "goal_metadata": {
+            "title": "Machine Learning Researcher at a Stealth Startup",
+            "duration": "ongoing",
+            "total_milestones": 8,
+            "analysis_timestamp": "2025-07-31T03:37:26.931328"
+          },
+          "milestones": [
+            {
+              "id": "m1",
+              "description": "Serve as a Quantitative Researcher at Qube Research & Technologies",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m2",
+              "description": "Hold the position of Chief Technology Officer at BabaConda Technologies",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m3",
+              "description": "Participate in Kaggle competitions and maintain high rankings",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m4",
+              "description": "Implement cutting-edge BERT model for Google QUEST QA Labeling competition",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m5",
+              "description": "Acquire expertise in data science and machine learning",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m6",
+              "description": "Develop proficiency in French, Arabic, and English languages",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m7",
+              "description": "Complete projects demonstrating advanced AI research skills",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m8",
+              "description": "Enhance skills in developing robust machine learning models",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            }
+          ],
+          "causal_relationships": [
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m1",
+              "relationship_type": "prerequisite",
+              "strength": 0.95,
+              "bidirectional": false,
+              "conditions": "Requires formal education or self-taught mastery of DS/ML fundamentals",
+              "mechanism": "Core DS/ML knowledge is a hiring gate for quantitative research roles",
+              "confidence": 0.92,
+              "reasoning": "Qube Research & Technologies hires Quantitative Researchers only after verifying deep DS/ML expertise; without m5, candidate would not pass technical interviews."
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m3",
+              "relationship_type": "enables",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Basic Python, statistics, and ML libraries must be mastered",
+              "mechanism": "Foundational skills allow meaningful participation in Kaggle competitions",
+              "confidence": 0.94,
+              "reasoning": "Kaggle competitions assume familiarity with scikit-learn, pandas, PyTorch/TensorFlow; m5 provides these prerequisites."
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m4",
+              "relationship_type": "prerequisite",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Need prior competition experience to tackle advanced NLP tasks",
+              "mechanism": "High Kaggle ranking signals readiness for cutting-edge model implementation",
+              "confidence": 0.88,
+              "reasoning": "Google QUEST QA competition is expert-level; prior Kaggle success (m3) is de-facto required to attempt m4."
+            },
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m7",
+              "relationship_type": "direct_cause",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Successful competition submission and public write-up",
+              "mechanism": "Competition project becomes flagship research demonstration",
+              "confidence": 0.85,
+              "reasoning": "A top-percentile BERT solution in m4 can be framed as an advanced AI research project, directly satisfying m7."
+            },
+            {
+              "prerequisite_id": "m7",
+              "dependent_id": "m8",
+              "relationship_type": "supports",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Project must involve iterative model robustness improvements",
+              "mechanism": "Research projects expose edge cases that drive robustness skill growth",
+              "confidence": 0.8,
+              "reasoning": "Executing m7 forces hands-on handling of noisy data, adversarial examples, and cross-validation, thereby enhancing robust-ML skills (m8)."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "temporal",
+              "strength": 0.7,
+              "bidirectional": false,
+              "conditions": "Requires 3-5 years of quant research experience",
+              "mechanism": "Industry progression from senior researcher to CTO",
+              "confidence": 0.78,
+              "reasoning": "Moving from Quant Researcher (m1) to CTO (m2) is a natural seniority jump after demonstrating leadership and business acumen."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m6",
+              "relationship_type": "conditional",
+              "strength": 0.65,
+              "bidirectional": false,
+              "conditions": "Startup operates in MENA/European markets",
+              "mechanism": "CTO role in bilingual startup necessitates language skills",
+              "confidence": 0.7,
+              "reasoning": "If BabaConda Technologies (m2) serves Arabic- and French-speaking markets, language proficiency (m6) becomes strategically valuable."
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m8",
+              "relationship_type": "direct_cause",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Continuous learning and experimentation",
+              "mechanism": "Foundational knowledge enables iterative robustness improvements",
+              "confidence": 0.9,
+              "reasoning": "Deep DS/ML expertise (m5) is necessary to understand regularization, data augmentation, and uncertainty quantification required for robust models (m8)."
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m8",
+              "relationship_type": "supports",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Focus on competitions with noisy or adversarial datasets",
+              "mechanism": "Kaggle experience exposes robustness challenges",
+              "confidence": 0.83,
+              "reasoning": "Competitions often contain label noise and distribution shift; tackling them (m3) directly trains robust-ML intuition (m8)."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m7",
+              "relationship_type": "enables",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Employer allows publication or open-source release",
+              "mechanism": "Quant research role provides compute resources and datasets",
+              "confidence": 0.8,
+              "reasoning": "Working at Qube (m1) gives access to large-scale financial data and GPU clusters, enabling high-impact AI research projects (m7)."
+            },
+            {
+              "prerequisite_id": "m6",
+              "dependent_id": "goal",
+              "relationship_type": "supports",
+              "strength": 0.6,
+              "bidirectional": false,
+              "conditions": "Stealth startup targets global or multilingual markets",
+              "mechanism": "Multilingual ability aids cross-cultural team collaboration",
+              "confidence": 0.7,
+              "reasoning": "Stealth startups often hire small, versatile teams; language skills (m6) make candidate more attractive for international expansion."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "goal",
+              "relationship_type": "enables",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "CTO experience in AI-driven startup",
+              "mechanism": "Executive experience signals ability to drive research agenda",
+              "confidence": 0.85,
+              "reasoning": "Having led BabaConda (m2) demonstrates capability to set technical vision, a key trait for a senior ML Researcher in a stealth startup."
+            },
+            {
+              "prerequisite_id": "m7",
+              "dependent_id": "goal",
+              "relationship_type": "direct_cause",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Projects must be high-impact and peer-recognized",
+              "mechanism": "Research portfolio convinces stealth startup of candidate\u2019s value",
+              "confidence": 0.92,
+              "reasoning": "Stealth startups hire researchers who can ship novel models; strong project demonstrations (m7) directly satisfy this requirement."
+            },
+            {
+              "prerequisite_id": "m8",
+              "dependent_id": "goal",
+              "relationship_type": "supports",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Demonstrated robustness in production settings",
+              "mechanism": "Robust-ML skills reduce product risk for stealth startup",
+              "confidence": 0.88,
+              "reasoning": "Stealth startups cannot afford model failures; proven robustness expertise (m8) makes candidate indispensable."
+            }
+          ],
+          "network_analysis": {
+            "total_relationships": 14,
+            "critical_path": [
+              "m5",
+              "m3",
+              "m1",
+              "m4",
+              "m7",
+              "m2"
+            ],
+            "bottlenecks": [
+              "goal",
+              "m8",
+              "m7"
+            ],
+            "foundational_milestones": [
+              "m5"
+            ],
+            "advanced_milestones": [
+              "goal"
+            ],
+            "relationship_density": 0.25
+          },
+          "insights": {
+            "complexity_score": 1.75,
+            "relationship_types_used": [
+              "prerequisite",
+              "conditional",
+              "supports",
+              "enables",
+              "temporal",
+              "direct_cause"
+            ],
+            "average_confidence": 0.8392857142857143,
+            "strongest_relationships": [
+              {
+                "from": "m5",
+                "to": "m1",
+                "type": "prerequisite",
+                "strength": 0.95
+              },
+              {
+                "from": "m5",
+                "to": "m3",
+                "type": "enables",
+                "strength": 0.9
+              },
+              {
+                "from": "m7",
+                "to": "goal",
+                "type": "direct_cause",
+                "strength": 0.9
+              }
+            ],
+            "career_progression_pattern": "flexible_progression",
+            "key_bottlenecks": [
+              "goal",
+              "m8",
+              "m7"
+            ],
+            "foundational_requirements": [
+              "m5"
+            ]
+          }
+        }
+      }
+    },
+    "Sami Khenissi": {
+      "person_metadata": {
+        "name": "Sami Khenissi",
+        "total_goals": 3,
+        "processing_timestamp": "2025-07-31T03:37:26.931328"
+      },
+      "goals": {
+        "goal1": {
+          "goal_metadata": {
+            "title": "Research Assistant at University of Louisville",
+            "duration": "April 2017 - June 2022",
+            "total_milestones": 6,
+            "analysis_timestamp": "2025-07-31T03:37:35.193163"
+          },
+          "milestones": [
+            {
+              "id": "m1",
+              "description": "Bachelor's degree in Applied Mathematics and Computer Science from Tunisia Polytechnic School",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m2",
+              "description": "Engage in theoretical modeling of feedback loops in recommender systems",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m3",
+              "description": "Research work accepted at Recsys 2020",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m4",
+              "description": "Explore interpretability for deep learning architectures",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m5",
+              "description": "Counter exposure bias in matrix factorization",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m6",
+              "description": "Design an explainable active learning strategy for recommender systems",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            }
+          ],
+          "causal_relationships": [
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "prerequisite",
+              "strength": 0.95,
+              "bidirectional": false,
+              "conditions": "Must have completed core undergraduate courses in algorithms, probability, and linear algebra",
+              "mechanism": "The Bachelor's degree provides the mathematical maturity and programming background required to understand and implement feedback-loop models in recommender systems",
+              "confidence": 0.98,
+              "reasoning": "A Research Assistant position at a U.S. university typically requires an accredited Bachelor's degree as a minimum qualification; without this credential, visa sponsorship and admission to graduate programs (common routes to RA roles) are impossible"
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m3",
+              "relationship_type": "prerequisite",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Must have institutional affiliation or prior publication history to submit to RecSys",
+              "mechanism": "The degree grants student status, which allows conference registration and advisor sponsorship necessary for paper submission",
+              "confidence": 0.95,
+              "reasoning": "Most top-tier CS conferences require an academic email or institutional endorsement; a Bachelor's from Tunisia Polytechnic School satisfies this requirement"
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m3",
+              "relationship_type": "direct_cause",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "Research must be novel and rigorously evaluated",
+              "mechanism": "The theoretical modeling work in m2 generates the core contribution that is then written up and peer-reviewed for RecSys 2020",
+              "confidence": 0.9,
+              "reasoning": "A RecSys publication needs a concrete technical contribution; m2 supplies the modeling framework and results that become the paper"
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m4",
+              "relationship_type": "enables",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Visibility from RecSys publication attracts collaborators interested in interpretability",
+              "mechanism": "Having a RecSys paper establishes credibility, making professors at University of Louisville more willing to supervise follow-up work on interpretability",
+              "confidence": 0.8,
+              "reasoning": "A prior publication demonstrates research competence, a key filter used by U.S. faculty when selecting RAs"
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m5",
+              "relationship_type": "enables",
+              "strength": 0.7,
+              "bidirectional": false,
+              "conditions": "RecSys networking leads to exposure-bias collaboration",
+              "mechanism": "Conference exposure introduces the candidate to faculty working on bias issues, facilitating joint projects",
+              "confidence": 0.75,
+              "reasoning": "Many bias-in-RS papers emerge from post-conference collaborations; m3 provides the venue"
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m6",
+              "relationship_type": "enables",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "RecSys publication is leveraged in RA application to demonstrate domain expertise",
+              "mechanism": "The publication serves as writing sample and proof of research ability in the RA interview process",
+              "confidence": 0.85,
+              "reasoning": "University of Louisville labs hiring RAs often ask for a writing sample; m3 fulfills this requirement"
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m5",
+              "relationship_type": "supports",
+              "strength": 0.65,
+              "bidirectional": false,
+              "conditions": "Feedback-loop insights inform bias analysis",
+              "mechanism": "Understanding feedback loops helps identify how exposure bias propagates in matrix factorization models",
+              "confidence": 0.7,
+              "reasoning": "Both milestones deal with systemic biases in recommender systems; insights from m2 provide theoretical grounding for m5"
+            },
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m6",
+              "relationship_type": "direct_cause",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Interpretability techniques must be integrated into active learning strategy",
+              "mechanism": "The interpretability research in m4 yields methods that are incorporated into the explainable active learning framework of m6",
+              "confidence": 0.85,
+              "reasoning": "An explainable active learning strategy requires interpretable models; m4 supplies these components"
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m6",
+              "relationship_type": "supports",
+              "strength": 0.6,
+              "bidirectional": false,
+              "conditions": "Bias mitigation techniques improve active learning sample selection",
+              "mechanism": "Countering exposure bias leads to more representative training data, which enhances the active learning strategy",
+              "confidence": 0.65,
+              "reasoning": "Active learning queries can be skewed by exposure bias; m5 techniques reduce this skew"
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m4",
+              "relationship_type": "prerequisite",
+              "strength": 0.7,
+              "bidirectional": false,
+              "conditions": "Deep learning coursework completed during Bachelor's",
+              "mechanism": "Undergraduate deep learning courses provide the foundation needed to explore interpretability in advanced architectures",
+              "confidence": 0.75,
+              "reasoning": "Without foundational DL knowledge from the Bachelor's program, tackling interpretability research would be premature"
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m5",
+              "relationship_type": "prerequisite",
+              "strength": 0.7,
+              "bidirectional": false,
+              "conditions": "Linear algebra and optimization background from Bachelor's",
+              "mechanism": "Matrix factorization techniques require linear algebra and optimization theory covered in the undergraduate curriculum",
+              "confidence": 0.75,
+              "reasoning": "Exposure bias mitigation in MF models relies on mathematical tools learned during the Bachelor's degree"
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m6",
+              "relationship_type": "prerequisite",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Coursework in human-computer interaction and machine learning",
+              "mechanism": "The Bachelor's curriculum includes courses that introduce active learning and HCI principles necessary for m6",
+              "confidence": 0.8,
+              "reasoning": "Designing an explainable strategy requires both ML and HCI knowledge typically acquired at the undergraduate level"
+            }
+          ],
+          "network_analysis": {
+            "total_relationships": 12,
+            "critical_path": [
+              "m1",
+              "m3",
+              "m2",
+              "m4",
+              "m5",
+              "m6"
+            ],
+            "bottlenecks": [
+              "m6",
+              "m5",
+              "m3"
+            ],
+            "foundational_milestones": [
+              "m1"
+            ],
+            "advanced_milestones": [
+              "m6"
+            ],
+            "relationship_density": 0.4
+          },
+          "insights": {
+            "complexity_score": 2.0,
+            "relationship_types_used": [
+              "enables",
+              "prerequisite",
+              "direct_cause",
+              "supports"
+            ],
+            "average_confidence": 0.8108333333333334,
+            "strongest_relationships": [
+              {
+                "from": "m1",
+                "to": "m2",
+                "type": "prerequisite",
+                "strength": 0.95
+              },
+              {
+                "from": "m1",
+                "to": "m3",
+                "type": "prerequisite",
+                "strength": 0.9
+              },
+              {
+                "from": "m2",
+                "to": "m3",
+                "type": "direct_cause",
+                "strength": 0.85
+              }
+            ],
+            "career_progression_pattern": "flexible_progression",
+            "key_bottlenecks": [
+              "m6",
+              "m5",
+              "m3"
+            ],
+            "foundational_requirements": [
+              "m1"
+            ]
+          }
+        },
+        "goal2": {
+          "goal_metadata": {
+            "title": "Research Intern at Bloomberg LP",
+            "duration": "2021",
+            "total_milestones": 2,
+            "analysis_timestamp": "2025-07-31T03:37:41.611873"
+          },
+          "milestones": [
+            {
+              "id": "m1",
+              "description": "Complete Master of Science in Computer Science from University of Louisville",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m2",
+              "description": "Collaborate with the AI-Recommendations team",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            }
+          ],
+          "causal_relationships": [
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "prerequisite",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Must be enrolled in or have completed at least the first year of the MS program with coursework in machine learning and data mining",
+              "mechanism": "The MS curriculum provides the theoretical grounding (deep learning, optimization, NLP) and the student status that makes a university\u2013industry collaboration project with Bloomberg\u2019s AI-Recommendations team possible",
+              "confidence": 0.95,
+              "reasoning": "Bloomberg\u2019s Research Intern postings typically require applicants to be currently enrolled in a graduate CS/EE program. Completing the MS at University of Louisville not only satisfies this enrollment requirement but also equips the candidate with the advanced coursework and faculty connections that are prerequisites for being invited to collaborate on the AI-Recommendations team."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "enables",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "GPA \u2265 3.7 and completion of at least two graduate-level ML courses",
+              "mechanism": "The MS program provides access to faculty research groups that have existing partnerships with Bloomberg; high-performing students are nominated for these industry projects",
+              "confidence": 0.9,
+              "reasoning": "Without the formal structure of the MS program, an external candidate would lack the institutional endorsement and research background that Bloomberg uses to shortlist interns. The degree therefore enables but does not strictly require the collaboration."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "supports",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "None beyond normal progression",
+              "mechanism": "Course projects in the MS can be aligned with recommender-system topics, producing portfolio artifacts that strengthen the collaboration application",
+              "confidence": 0.8,
+              "reasoning": "Even if the collaboration could theoretically occur without the MS, the degree supplies coursework and project experience that materially improve the quality of the candidate\u2019s contribution to the AI-Recommendations team."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m1",
+              "relationship_type": "mutual_reinforcement",
+              "strength": 0.7,
+              "bidirectional": true,
+              "conditions": "Collaboration must yield a co-authored publication or thesis chapter",
+              "mechanism": "Success in the Bloomberg collaboration feeds back into the MS thesis, improving the final degree outcome and vice versa",
+              "confidence": 0.85,
+              "reasoning": "A productive collaboration can generate research results that count toward the MS thesis requirements, while the thesis work can deepen the insights contributed to the Bloomberg team, creating a virtuous cycle."
+            }
+          ],
+          "network_analysis": {
+            "total_relationships": 4,
+            "critical_path": [],
+            "bottlenecks": [],
+            "foundational_milestones": [],
+            "advanced_milestones": [],
+            "relationship_density": 2.0
+          },
+          "insights": {
+            "complexity_score": 2.0,
+            "relationship_types_used": [
+              "enables",
+              "prerequisite",
+              "mutual_reinforcement",
+              "supports"
+            ],
+            "average_confidence": 0.8750000000000001,
+            "strongest_relationships": [
+              {
+                "from": "m1",
+                "to": "m2",
+                "type": "prerequisite",
+                "strength": 0.9
+              },
+              {
+                "from": "m1",
+                "to": "m2",
+                "type": "enables",
+                "strength": 0.85
+              },
+              {
+                "from": "m1",
+                "to": "m2",
+                "type": "supports",
+                "strength": 0.75
+              }
+            ],
+            "career_progression_pattern": "flexible_progression",
+            "key_bottlenecks": [],
+            "foundational_requirements": []
+          }
+        },
+        "goal3": {
+          "goal_metadata": {
+            "title": "Staff Research Scientist at Meta",
+            "duration": "Current Position",
+            "total_milestones": 6,
+            "analysis_timestamp": "2025-07-31T03:37:49.625692"
+          },
+          "milestones": [
+            {
+              "id": "m1",
+              "description": "PhD in Computer Science from University of Louisville",
+              "original_score": 10,
+              "normalized_importance": 1.0
+            },
+            {
+              "id": "m2",
+              "description": "Focus on building scalable recommender systems",
+              "original_score": 9,
+              "normalized_importance": 0.9
+            },
+            {
+              "id": "m3",
+              "description": "Enhance AI systems for internal coding tools",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m4",
+              "description": "Work on large language models (LLMs)",
+              "original_score": 8,
+              "normalized_importance": 0.8
+            },
+            {
+              "id": "m5",
+              "description": "Serve as Tech Lead for Facebook Video Recommendations",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            },
+            {
+              "id": "m6",
+              "description": "Concentrate on large-scale ranking and late-stage personalization models",
+              "original_score": 7,
+              "normalized_importance": 0.7
+            }
+          ],
+          "causal_relationships": [
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m2",
+              "relationship_type": "prerequisite",
+              "strength": 0.95,
+              "bidirectional": false,
+              "conditions": "PhD must be completed or near-completion before deep specialization in recommender systems is credible at Meta-level scale",
+              "mechanism": "PhD provides theoretical grounding in ML, optimization, and systems thinking required to design novel recommender architectures",
+              "confidence": 0.92,
+              "reasoning": "Meta\u2019s Staff Research Scientist job family typically requires a PhD for research credibility; without it, the candidate would be filtered out before technical depth in recommender systems is even evaluated."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m4",
+              "relationship_type": "prerequisite",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "PhD dissertation must demonstrate publication record in NLP or large-model training",
+              "mechanism": "PhD research yields first-author papers at ACL/NeurIPS/ICML, which are prerequisites for Meta research interviews",
+              "confidence": 0.9,
+              "reasoning": "Staff-level hiring committees look for PhD-level evidence of advancing LLM science; terminal-degree research is the standard gate."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m5",
+              "relationship_type": "direct_cause",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "At least 3-4 years post-PhD building production-scale recommenders",
+              "mechanism": "Deep expertise in recommender systems is the exact skill set needed to lead Facebook Video Recommendations",
+              "confidence": 0.88,
+              "reasoning": "Video recommendations at Meta\u2019s scale require cutting-edge retrieval and ranking; prior specialization in recommenders is non-negotiable for Tech Lead credibility."
+            },
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m3",
+              "relationship_type": "enables",
+              "strength": 0.8,
+              "bidirectional": false,
+              "conditions": "Experience fine-tuning LLMs for code generation tasks",
+              "mechanism": "LLM expertise allows transfer to code-model domain; internal tools leverage similar transformer architectures",
+              "confidence": 0.85,
+              "reasoning": "Meta\u2019s internal coding assistants (e.g., CodeCompose) build directly on LLM advances; prior LLM work lowers ramp-up time."
+            },
+            {
+              "prerequisite_id": "m5",
+              "dependent_id": "m6",
+              "relationship_type": "direct_cause",
+              "strength": 0.9,
+              "bidirectional": false,
+              "conditions": "Successful delivery of video ranking improvements with measurable impact",
+              "mechanism": "Tech Lead role provides mandate to push ranking and personalization boundaries at Meta scale",
+              "confidence": 0.9,
+              "reasoning": "Staff promotion cases hinge on demonstrated impact; leading video recommendations gives platform to innovate on late-stage ranking."
+            },
+            {
+              "prerequisite_id": "m2",
+              "dependent_id": "m6",
+              "relationship_type": "supports",
+              "strength": 0.75,
+              "bidirectional": false,
+              "conditions": "Continued publication record in recommender systems",
+              "mechanism": "Foundational recommender knowledge informs advanced ranking and personalization research",
+              "confidence": 0.8,
+              "reasoning": "Even after moving to Tech Lead, ongoing recommender research keeps candidate\u2019s profile aligned with Meta\u2019s product needs."
+            },
+            {
+              "prerequisite_id": "m3",
+              "dependent_id": "m6",
+              "relationship_type": "mutual_reinforcement",
+              "strength": 0.7,
+              "bidirectional": true,
+              "conditions": "Cross-pollination between code-model efficiency and ranking-model efficiency",
+              "mechanism": "Optimizations for LLM inference translate to ranking-model serving; vice-versa for personalization",
+              "confidence": 0.78,
+              "reasoning": "Meta values researchers who connect disparate domains; innovations in internal tools can inspire ranking breakthroughs."
+            },
+            {
+              "prerequisite_id": "m1",
+              "dependent_id": "m5",
+              "relationship_type": "temporal",
+              "strength": 0.85,
+              "bidirectional": false,
+              "conditions": "PhD completion precedes Tech Lead role by ~4-6 years of industry experience",
+              "mechanism": "Career ladder at Meta requires PhD + years of post-doc or industry research before Staff-level leadership",
+              "confidence": 0.85,
+              "reasoning": "Meta\u2019s internal leveling guidelines place PhD as baseline; Tech Lead for core product is rarely given to pre-PhD candidates."
+            },
+            {
+              "prerequisite_id": "m4",
+              "dependent_id": "m5",
+              "relationship_type": "supports",
+              "strength": 0.65,
+              "bidirectional": false,
+              "conditions": "LLM knowledge applied to multimodal video understanding",
+              "mechanism": "Modern video recommenders use LLMs for metadata and content understanding",
+              "confidence": 0.7,
+              "reasoning": "While not strictly required, LLM expertise strengthens the case for leading next-gen video recommendations."
+            }
+          ],
+          "network_analysis": {
+            "total_relationships": 9,
+            "critical_path": [
+              "m1",
+              "m2",
+              "m4",
+              "m3",
+              "m5",
+              "m6"
+            ],
+            "bottlenecks": [
+              "m5",
+              "m6"
+            ],
+            "foundational_milestones": [
+              "m1"
+            ],
+            "advanced_milestones": [
+              "m6"
+            ],
+            "relationship_density": 0.3
+          },
+          "insights": {
+            "complexity_score": 1.5,
+            "relationship_types_used": [
+              "prerequisite",
+              "supports",
+              "enables",
+              "mutual_reinforcement",
+              "temporal",
+              "direct_cause"
+            ],
+            "average_confidence": 0.8422222222222222,
+            "strongest_relationships": [
+              {
+                "from": "m1",
+                "to": "m2",
+                "type": "prerequisite",
+                "strength": 0.95
+              },
+              {
+                "from": "m1",
+                "to": "m4",
+                "type": "prerequisite",
+                "strength": 0.9
+              },
+              {
+                "from": "m5",
+                "to": "m6",
+                "type": "direct_cause",
+                "strength": 0.9
+              }
+            ],
+            "career_progression_pattern": "flexible_progression",
+            "key_bottlenecks": [
+              "m5",
+              "m6"
+            ],
+            "foundational_requirements": [
+              "m1"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "saved_at": "2025-08-10T10:39:04.860717",
+    "version": "1.0",
+    "data_type": "roadmap"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "Firas Baba": {
+    "roadmaps": {
+      "goal1": {
+        "title": "Data Scientist at boost.ai",
+        "duration": "2 years",
+        "milestones": [
+          {
+            "name": "Complete Bachelor's degree in Telecommunications Engineering from SUP'COM",
+            "score": 9
+          },
+          {
+            "name": "Intern as a Data Scientist at an organization in Sfax, Tunisia",
+            "score": 8
+          },
+          {
+            "name": "Work as an AI Engineer at InstaDeep Ltd in Tunisia",
+            "score": 8
+          },
+          {
+            "name": "Develop proficiency in Python programming",
+            "score": 7
+          },
+          {
+            "name": "Gain experience in Deep Learning",
+            "score": 7
+          },
+          {
+            "name": "Acquire skills in Data Science during internship",
+            "score": 8
+          },
+          {
+            "name": "Master pandas and numpy libraries",
+            "score": 7
+          },
+          {
+            "name": "Complete online course on Neural Networks and Deep Learning",
+            "score": 8
+          }
+        ]
+      },
+      "goal2": {
+        "title": "Quantitative Researcher at Qube Research & Technologies",
+        "duration": "2 years",
+        "milestones": [
+          {
+            "name": "Serve as a Data Scientist at boost.ai",
+            "score": 9
+          },
+          {
+            "name": "Hold the position of Machine Learning Engineer at boost.ai",
+            "score": 8
+          },
+          {
+            "name": "Achieve Competitions Master status on Kaggle",
+            "score": 9
+          },
+          {
+            "name": "Earn gold and silver medals in Kaggle competitions",
+            "score": 8
+          },
+          {
+            "name": "Attain 1st place in RSNA-MICCAI Brain Tumor Radiogenomic Classification competition on Kaggle",
+            "score": 9
+          },
+          {
+            "name": "Complete Generative AI with Large Language Models certification",
+            "score": 8
+          },
+          {
+            "name": "Develop expertise in developing quantitative models and strategies",
+            "score": 7
+          },
+          {
+            "name": "Gain experience in applying machine learning in real-world scenarios",
+            "score": 7
+          }
+        ]
+      },
+      "goal3": {
+        "title": "Machine Learning Researcher at a Stealth Startup",
+        "duration": "ongoing",
+        "milestones": [
+          {
+            "name": "Serve as a Quantitative Researcher at Qube Research & Technologies",
+            "score": 9
+          },
+          {
+            "name": "Hold the position of Chief Technology Officer at BabaConda Technologies",
+            "score": 8
+          },
+          {
+            "name": "Participate in Kaggle competitions and maintain high rankings",
+            "score": 9
+          },
+          {
+            "name": "Implement cutting-edge BERT model for Google QUEST QA Labeling competition",
+            "score": 8
+          },
+          {
+            "name": "Acquire expertise in data science and machine learning",
+            "score": 7
+          },
+          {
+            "name": "Develop proficiency in French, Arabic, and English languages",
+            "score": 7
+          },
+          {
+            "name": "Complete projects demonstrating advanced AI research skills",
+            "score": 8
+          },
+          {
+            "name": "Enhance skills in developing robust machine learning models",
+            "score": 7
+          }
+        ]
+      }
+    }
+  },
+  "Sami Khenissi": {
+    "roadmaps": {
+      "goal1": {
+        "title": "Research Assistant at University of Louisville",
+        "duration": "April 2017 - June 2022",
+        "milestones": [
+          {
+            "name": "Bachelor's degree in Applied Mathematics and Computer Science from Tunisia Polytechnic School",
+            "score": 9
+          },
+          {
+            "name": "Engage in theoretical modeling of feedback loops in recommender systems",
+            "score": 8
+          },
+          {
+            "name": "Research work accepted at Recsys 2020",
+            "score": 8
+          },
+          {
+            "name": "Explore interpretability for deep learning architectures",
+            "score": 7
+          },
+          {
+            "name": "Counter exposure bias in matrix factorization",
+            "score": 7
+          },
+          {
+            "name": "Design an explainable active learning strategy for recommender systems",
+            "score": 7
+          }
+        ]
+      },
+      "goal2": {
+        "title": "Research Intern at Bloomberg LP",
+        "duration": "2021",
+        "milestones": [
+          {
+            "name": "Complete Master of Science in Computer Science from University of Louisville",
+            "score": 9
+          },
+          {
+            "name": "Collaborate with the AI-Recommendations team",
+            "score": 8
+          }
+        ]
+      },
+      "goal3": {
+        "title": "Staff Research Scientist at Meta",
+        "duration": "Current Position",
+        "milestones": [
+          {
+            "name": "PhD in Computer Science from University of Louisville",
+            "score": 10
+          },
+          {
+            "name": "Focus on building scalable recommender systems",
+            "score": 9
+          },
+          {
+            "name": "Enhance AI systems for internal coding tools",
+            "score": 8
+          },
+          {
+            "name": "Work on large language models (LLMs)",
+            "score": 8
+          },
+          {
+            "name": "Serve as Tech Lead for Facebook Video Recommendations",
+            "score": 7
+          },
+          {
+            "name": "Concentrate on large-scale ranking and late-stage personalization models",
+            "score": 7
+          }
+        ]
+      }
+    }
+  }
+}

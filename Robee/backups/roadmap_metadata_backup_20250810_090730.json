@@ -1,0 +1,25 @@
+{
+  "original_key": "roadmap_metadata",
+  "data": {
+    "person": "metadata",
+    "roadmap_data": {
+      "generation_timestamp": "2025-07-31T03:36:59.743606",
+      "source_file": "roadmaps_output.json",
+      "methodology": "ai_assisted_causal_analysis",
+      "total_people": 2,
+      "total_goals": 6,
+      "goals_processed": 6,
+      "total_relationships": 62
+    },
+    "metadata": {
+      "saved_at": "2025-08-10T09:07:30.865235",
+      "version": "1.0",
+      "data_type": "roadmap"
+    }
+  },
+  "backup_metadata": {
+    "created_at": "2025-08-10T09:07:30.866234",
+    "backup_type": "individual",
+    "data_size": 363
+  }
+}

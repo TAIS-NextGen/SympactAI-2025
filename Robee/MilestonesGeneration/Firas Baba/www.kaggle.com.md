@@ -1,0 +1,845 @@
+menu
+
+[Skip to\\
+\\
+content](https://www.kaggle.com/rinnqd/competitions#site-content)
+
+[![Kaggle](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/)
+
+Create
+
+search​
+
+- [explore\\
+\\
+Home](https://www.kaggle.com/)
+
+- [emoji\_events\\
+\\
+Competitions](https://www.kaggle.com/competitions)
+
+- [table\_chart\\
+\\
+Datasets](https://www.kaggle.com/datasets)
+
+- [tenancy\\
+\\
+Models](https://www.kaggle.com/models)
+
+- [leaderboard\\
+\\
+Benchmarks](https://www.kaggle.com/benchmarks)
+
+- [code\\
+\\
+Code](https://www.kaggle.com/code)
+
+- [comment\\
+\\
+Discussions](https://www.kaggle.com/discussions)
+
+- [school\\
+\\
+Learn](https://www.kaggle.com/learn)
+
+
+- [expand\_more\\
+\\
+More](https://www.kaggle.com/rinnqd/competitions#)
+
+
+auto\_awesome\_motion
+
+View Active Events
+
+menu
+
+[Skip to\\
+\\
+content](https://www.kaggle.com/rinnqd/competitions#site-content)
+
+[![Kaggle](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/)
+
+search​
+
+[Sign In](https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2Frinnqd%2Fcompetitions)
+
+[Register](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2Frinnqd%2Fcompetitions)
+
+![](https://www.kaggle.com/static/images/tiers/master.svg)
+
+Competitions Master
+
+1,664 of 203,056
+
+rinnqd
+
+# Firas Baba
+
+- work
+Machine Learning Engineer at Stealth Mode Startup
+
+- pin\_drop
+Montreal, Quebec, Canada
+
+- date\_range
+Joined 7 years ago · last seen 6 days ago
+
+
+[About](https://www.kaggle.com/rinnqd) [Competitions (29)](https://www.kaggle.com/rinnqd/competitions) [Datasets (2)](https://www.kaggle.com/rinnqd/datasets) [Code (9)](https://www.kaggle.com/rinnqd/code) [Discussion (226)](https://www.kaggle.com/rinnqd/discussion) [Followers (631)](https://www.kaggle.com/rinnqd/followers) [Following (34)](https://www.kaggle.com/rinnqd/following)
+
+## Completed Competitions (29)
+
+search​
+
+Best Result
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/29653/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=IDXaZ0MY7X7ebjO3fpL0RYULRDK1cPaKSntc13%2F3YTA9DxvcAM1huGI5bR01eQMrCh%2BgDB7egJ8DeOIAmrMk772NGc0YLYry347yh1P1nEFevr6fxDiBNiA0ituBBOCvlPKMT1YK3Q3jLZIrlnbK2NGkoax6BXCFB9X30ps%2FBQroRoxIsDEal7Qe10DmrYHK%2FJmFnVqEKFok6l1n4nKg7H5TknnfX%2BoR81nPdsXRp2vRKo1hXEkmUy%2Bn83AJQUJGlCoSyYpy7aVyYrpr7SjVHty0PezSqGgUw4tsokqn3zYDKdfu%2F6qe%2Bp6aJnuWWwKpSOeFCgl4rFlWc6W3mIzcCg%3D%3D)\\
+\\
+emoji\_events\\
+\\
+RSNA-MICCAI Brain Tumor Radiogenomic Classification\\
+\\
+Predict the status of a genetic biomarker important for brain cancer treatment Featured · Code Competition · 1555 Teams · 4 years ago](https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification)
+
+
+
+
+
+
+1/1555
+
+
+![gold medal](https://www.kaggle.com/static/images/medals/competitions/golds@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/7968/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=hyUtpaJs4a15CLG0j85RAlPPSUfEpZsMM%2BNdE6LhcFQS6ZbOjLBCAngMGEnbg0wATDCwfrTytX34RHfrAx6X0GDvwkWNtr6GuTN0RdtQdaqcOBZUuJMZhKlJRhkRt9GsxSkbxcC2tQAL3aybuNmD9GYkFR3cfmvMiQYdejvmPuWbTI%2FQG413XgAltFnS8481hwM1%2BE%2Fi2K5c4h0ZSLN2vQHcZl53Ap7ZWU9dZiVW6449bG%2FXFaLncEvuFPNqpie%2FkjszPRlWmdmIgnqDuvG3xkcJ%2FYVvvE92nDFWMjQBnvir4GwjhPppR8y5FGRpxZY3ADXPFLGeMXoarsuLaUNHzA%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Google QUEST Q&A Labeling\\
+\\
+Improving automated understanding of complex question answer content Featured · Code Competition · 1571 Teams · 5 years ago](https://www.kaggle.com/competitions/google-quest-challenge)
+
+
+
+
+
+
+4/1571
+
+
+![gold medal](https://www.kaggle.com/static/images/medals/competitions/golds@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for rooshroosh](https://storage.googleapis.com/kaggle-avatars/thumbnails/203630-kg.jpg)
+
+
+
+![Profile picture for bolkonsky](https://storage.googleapis.com/kaggle-avatars/thumbnails/1192776-fb.jpg)
+
+
+
+![Profile picture for nprokoptsev](https://storage.googleapis.com/kaggle-avatars/thumbnails/1293752-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for ryunosukeishizaki](https://storage.googleapis.com/kaggle-avatars/thumbnails/2730705-kg.png?t=2024-02-18-06-37-56)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/18647/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=XzmYwOfNZ3SMsY5ub2Q4zg45ynAygUWPkyJN3y4ccHwNJZuhMUPCU4DNVvO0oqN%2FaxG4k3eTzNitP6iQFtzPTDfknkOd5RWI5qy%2BVMlkKhqatLnOs4n505OPC4hhioDiLsrowK8T9NgRiOkzje41BuNAbXbS1DMhEAjz1iLlwdDqikJDPfG7W9pV1%2FL6pHAibRZ4oxABFYVol1e17GLGmcwzb0LTfxm98jGWMpl%2FOgMWreeP98dFPP3OOL%2BapidiMAMXhK19b%2FO33nGaJSthpc46kiwhgweBukZcH5s5kdFz3F6hqgS52JoXBWfwxVTEvYoeNHxJEM9oiAFTcixXVQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Prostate cANcer graDe Assessment (PANDA) Challenge\\
+\\
+Prostate cancer diagnosis using the Gleason grading system Featured · Code Competition · 1010 Teams · 5 years ago](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment)
+
+
+
+
+
+
+15/1010
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for bolkonsky](https://storage.googleapis.com/kaggle-avatars/thumbnails/1192776-fb.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for ryunosukeishizaki](https://storage.googleapis.com/kaggle-avatars/thumbnails/2730705-kg.png?t=2024-02-18-06-37-56)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/26680/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=UG5%2F%2F4GFU0G9h3bmiZh85cK5%2BkYcFkVjVlps3gweHrw1MU04iJlsV3vqGw0NXxSfa4Kn57ff5kaBu%2FNPN%2FapBJfLeuJ1VwotpJGUPmYF73folED7zQ%2BB%2B69rKgmDozek3%2BeKVwIN8uHsEzldnMYeOqD%2FOAGckcMitQ0pFLPW2LDBrSIU7rTjtQ7mM6DBTClF5V8KuP8pZvlnKy%2Bsf0B6WvuMHmgdKaMzVgwFREsjJ72QEHvR2qC1DS%2FizZd%2BZudTp9r6IR7tIZWItfvXKDlWCg0xxuSzY8PeV8jpFkGfIuZqWKXmQXrTNFRklEJAaL0kbqCsAs5WEEy918EcmmEhyA%3D%3D)\\
+\\
+emoji\_events\\
+\\
+SIIM-FISABIO-RSNA COVID-19 Detection\\
+\\
+Identify and localize COVID-19 abnormalities on chest radiographs Featured · Code Competition · 1305 Teams · 4 years ago](https://www.kaggle.com/competitions/siim-covid19-detection)
+
+
+
+
+
+
+19/1305
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for ryunosukeishizaki](https://storage.googleapis.com/kaggle-avatars/thumbnails/2730705-kg.png?t=2024-02-18-06-37-56)
+
+
+
+![Profile picture for drtausamaru](https://storage.googleapis.com/kaggle-avatars/thumbnails/5092791-kg.jpeg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/16295/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=byTUTE70GaMcQVW1CMJJZ9DnLcfu1LBVz%2BCdl9DQzIkGtRRjd7Y6b%2FFH57BvNGg7%2BAJDorW4MGpzpF2RjnUNhDi7yY4kjxavRZ2Z%2B9LeXwtonuuVfKB1sfC65P7jlI52kqQyKVDWncEfNTpkyFgt6CpjOkdIe%2F67ndNbTTx%2BIQFcWx3aGmcV0p8IelI8tkdmZbu22%2F1rzWLsovlrr1sG2PUNRatUZ6tFs5coXD%2FpQPfGDITk8Cx%2FeE69qUBhbA9Z4Ti4i4e%2FNHXk2Ejxduur2MsX2poxIOWWZ8lC%2BN69L5MozUuGLqNS4bQCva6Usq%2FmOQBZ9SGqjLPwmzPBjfbzXg%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Tweet Sentiment Extraction\\
+\\
+Extract support phrases for sentiment labels Featured · Code Competition · 2225 Teams · 5 years ago](https://www.kaggle.com/competitions/tweet-sentiment-extraction)
+
+
+
+
+
+
+22/2225
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for seefun](https://storage.googleapis.com/kaggle-avatars/thumbnails/734344-kg.jpg)
+
+
+
+![Profile picture for jionie](https://storage.googleapis.com/kaggle-avatars/thumbnails/1175497-kg.jpeg)
+
+
+
+![Profile picture for atanasova](https://storage.googleapis.com/kaggle-avatars/thumbnails/1183600-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for buaazijian](https://storage.googleapis.com/kaggle-avatars/thumbnails/2156075-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/14239/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=MhHya1yEwmYJO8q7o7N8A1Va2YWg%2FDbDPh%2BN3r8%2FjZGyURj3Q0J6VkVj6YVl3kzcUCimtTSq3ycXC26jSsrqOdJHy%2Bc0f%2BiZJ48NQBg0jP2uLrCz%2BqJ%2FaDiypnq59UI78wpqpYxmdNVe7t6uxlGUnqW9gLAKsulzPFWSeZ4T12nlrRqsJyWJhkuY6UL7x5%2BUBL0qEwaKLRc8dFsn%2BQjdchqmAwkWtvQw4QghZAk8RuvzFRI7XThjpYWtkrsBmPAzzlfLO4yR%2F2gAu2DewksHu9NAWlhQvrPH5sIpScpM9raFAEkt9V%2F6hnlZOcbFHi77YT2o%2BIzyM6EZrXOEAS45Zg%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Instant Gratification\\
+\\
+A synchronous Kernels-only competition Featured · Code Competition · 1818 Teams · 6 years ago](https://www.kaggle.com/competitions/instant-gratification)
+
+
+
+
+
+
+33/1818
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for abhishek](https://storage.googleapis.com/kaggle-avatars/thumbnails/5309-kg.png)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/13032/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=asxJYTP3Ln6G6iIV2t7OfydwaIBQOXTQO4uETulXupLhRQ31IJ37uoLqWSkyC2sdJs0c3R65AafgMrwrb09KfEt0Mv702L1FJgcLPW4Go00puDe4NZ850E2VZKEhLVc5KOkOUIXiPWVP%2FWAPfjQTGO2YKNJ6QrwzdbQ8GVMQi6hZeI5mo0LWfkEWdaO481%2BssX40MtqS2xGPH77glj1jvZ5d%2B5NiAb5sd0ygA2RagRQDlcslB%2Ft5SJ5hhKtNYTyIYrJS5XD6MvZLqvjvQiSdbTCHsmCz9VDTIRwQAis133nZHnmsbcie%2FGgTqtZOOdBO6YyMsTJHPz3m%2F0ky6IaQOw%3D%3D)\\
+\\
+emoji\_events\\
+\\
+iMaterialist (Fashion) 2019 at FGVC6 \\
+\\
+Fine-grained segmentation task for fashion and apparel Research · 241 Teams · 6 years ago](https://www.kaggle.com/competitions/imaterialist-fashion-2019-FGVC6)
+
+
+
+
+
+
+33/241
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for abhishek](https://storage.googleapis.com/kaggle-avatars/thumbnails/5309-kg.png)
+
+
+
+![Profile picture for lucamassaron](https://storage.googleapis.com/kaggle-avatars/thumbnails/19298-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/12863/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=CseF8afjC2N9scXQSe5wxXxR0RhFgcUvYXzW1OEwg3iAj1FhOUyoGtkXB93h4ewb9sMZuAn5Ep1hJeRsa2vkIgCNqXulAPt%2F2ay49hTDVUPSumReV0FS0EICr%2FRvUQd%2Bx7P0wupSEtBPU4LnVi9jnZyFPjeQQwtZFoEIUeTuhe1bu9D%2BiAC%2BHedBCsyXKzlAgtr1FTt%2FfnjkANUJKY7JrIeqHajrgsiQADCAVuorsEN7fMV6FAbs5%2B2AYQ8IzUAh9Ha5443wbjXHPVQIp8waaRztsqJOTWENjeeQmr%2BXTKMX40EcmIFxDlAgnrMUUcadrD8SNH3naowxH8edjQZeNQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+TensorFlow 2.0 Question Answering\\
+\\
+Identify the answers to real user questions about Wikipedia page content Featured · Code Competition · 1233 Teams · 5 years ago](https://www.kaggle.com/competitions/tensorflow2-question-answering)
+
+
+
+
+
+
+47/1233
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for abhishek](https://storage.googleapis.com/kaggle-avatars/thumbnails/5309-kg.png)
+
+
+
+![Profile picture for axel81](https://storage.googleapis.com/kaggle-avatars/thumbnails/887695-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/13251/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=W14b6%2Fda%2BiC%2F3R2xeyovSSao981O6n%2F7G4AtHuCNOgUKo9llo1ixlQEF6tE6M7zWDS3gwShKw1j7EPtsGryZq%2F3e37lvW8YIPga1c%2B5MQgYTVpw5g4YziuhcTjE2Zv2BStzcWxWetEGWg9gEqtal1%2B7mLY7G%2FgCINU0vTlmlS2Zr%2B2Tct%2FOgTAngnrujRiwc62LLK553HXv0S%2FT8XdA2TZsaE1ZH5IrR1gWMYoFX9GIIqVa7U4fxHgL2F2wSuU4Kk2L0CKHlA70jyQ%2FwXn%2BPOAEp7LTj2zmU0v1GEpQrJQ67m%2BqTdsNw%2Bw1d4EAKJThdd%2BhrTt0%2F7WzkY8KUMa9qMg%3D%3D)\\
+\\
+emoji\_events\\
+\\
+iMet Collection 2019 - FGVC6\\
+\\
+Recognize artwork attributes from The Metropolitan Museum of Art Research · Code Competition · 521 Teams · 6 years ago](https://www.kaggle.com/competitions/imet-2019-fgvc6)
+
+
+
+
+
+
+49/521
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for abhishek](https://storage.googleapis.com/kaggle-avatars/thumbnails/5309-kg.png)
+
+
+
+![Profile picture for lucamassaron](https://storage.googleapis.com/kaggle-avatars/thumbnails/19298-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/10385/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=X9JxC1aD8oSjda%2BR6oBcBvYVppJ6xtpdXvhMsXFKoPnFeyXiTWMnwyFjDi9ypqrBB3eY2Co88C5v2UIYr4ZNb1zlrNXaF2NO52jTxpEn1eAqyJu0JNrjSO%2BZuvtaqeLPI9cSXc78m%2FhUph1Qlzx79gUJqjX%2BegFyFTMh9tO0IOZwNah3FcVsLpShp1tuxRnUrCdHAKlycAq%2FE5DLDPpagkF%2Boh89NwvNRtmlqqzl31Egc%2F8%2BVDeCe8mt0GxAXyp9Y1Q%2BONObJ9%2BsrJfZZoAPyPadlC%2FYIZhO49tjgR%2FOu9fsWashCtBi0o0ozFA%2BLlK9D5Aa2COst6jfPSFcwi1FzQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Santander Customer Transaction Prediction\\
+\\
+Can you identify who will make a transaction? Featured · 8751 Teams · 6 years ago](https://www.kaggle.com/competitions/santander-customer-transaction-prediction)
+
+
+
+
+
+
+58/8751
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for robertburbidge](https://storage.googleapis.com/kaggle-avatars/thumbnails/101869-kg.jpeg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/14774/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=cD%2FpYccvPdjZe0lmJk1mYsFRSDVNBOkPTmbnHz7IOlQDNfOt4xroSEKLAQu%2BU0hjTYSD4P3UXDdCh6gVR8sZ6bDZ8XSGyaB93DLhemu0XVj0gl7hMgA3x6QS%2FU75QMDKEE%2FfsfEX7azmT6qLFI%2BRHo38zkMCsZXVdI41CGoabFI%2BKHgmH9V8AxuTu4FaTQTaTuMAwNB8Iclrl55YFDKrkRy0KTnoZESfq1LtEhfguMD3s81meQfmn4KjCfL6ZJvGKspdxA1NV%2FDUYD6NvCOW84A%2B0HRwIWKWFjL9xbiiFXB1HLsoz12svst9PA1OlvLv%2FvyFjI2%2BERsP4W4U3WGD6Q%3D%3D)\\
+\\
+emoji\_events\\
+\\
+APTOS 2019 Blindness Detection\\
+\\
+Detect diabetic retinopathy to stop blindness before it's too late Featured · Code Competition · 2928 Teams · 6 years ago](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
+
+
+
+
+
+
+129/2928
+
+
+![silver medal](https://www.kaggle.com/static/images/medals/competitions/silvers@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/14420/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=F9qg2jwjqYeQOW82opLJOeUwQ48zNfFMSBTfuAgOVdcLhYzt7l43bzyMPU%2Fu%2BVpHTX3qBeupAZCY%2BdubKpynXBaK58YUdDyK5Oe9tqvB7mobXItoSMeEA1HBIg8AHzm5EPYh19efljtWBp7LgPAs310MMAT1Ufg5nvyK0LtUrJdB5F50riRp%2BvPsTvJFtfGRuQtxZ7dcnn1tmHSXfzz8JTV%2BeyGRRe8DY%2BpTSl7RopnPcRgYVAro8O4wXtxGJgIOkXStcj8b2%2Fy2TkjvdOJA8ubePM16X9ffBSX1e1S1oO7t%2BIoiL32ZvUP4n2dULDz%2ByJbjAcVjYQUqdvPj%2BNy5dQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Recursion Cellular Image Classification\\
+\\
+CellSignal: Disentangling biological signal from experimental noise in cellular images Research · 865 Teams · 6 years ago](https://www.kaggle.com/competitions/recursion-cellular-image-classification)
+
+
+
+
+
+
+85/865
+
+
+![bronze medal](https://www.kaggle.com/static/images/medals/competitions/bronzes@2x.png)
+
+
+
+
+
+
+
+
+
+![Profile picture for abhishek](https://storage.googleapis.com/kaggle-avatars/thumbnails/5309-kg.png)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/10384/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=LuMdYuerD1iavkmZcY0WIFYHVXHnd9lXD5iAuWiUjZXsllwTuOGCB1tREw8c7%2FjRYxcApkSIwTvI2zx5%2FoXLKpo3YTY%2Fq4ARbcLFA85PjdXUYP0YPC96cnJBL8t7cSXbfQmmotpNBVLRkqcMheM33e2jU3FUdo1ItDXaCbVgGjo7BjIPCG06MhNdNK0ojEwQylJMrSkttT2OpzGL9fAdoSvIDHPLWLQCqnIBHK0DqReo0qyNRVCXvqIQBh5c0E%2BlEkJg%2BNCLaY%2BAoeQJoh0ykLdUi%2BUCPD%2F13GrkDurjJFv1E1BwxbNnGSPEN6o2Onr8IegC9anP1J9Gq4X2Xy6kxQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+PLAsTiCC Astronomical Classification\\
+\\
+Can you help make sense of the Universe? Featured · 1089 Teams · 7 years ago](https://www.kaggle.com/competitions/PLAsTiCC-2018)
+
+
+
+
+
+
+152/1089
+
+
+
+
+
+
+
+
+![Profile picture for jackvial](https://storage.googleapis.com/kaggle-avatars/thumbnails/1005864-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/9993/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=HHgwrxG%2BWCMRHS6Iybwepl5UTnMAK32GBbqIO2c%2FCR1WUuhZ8JdgdcR0fis7fBdsNvFjaM3VySe%2BEMI29M%2FR7I1HsKeeagJT3ywFnjk3uz1vJiIszeACH1qYkWx89Q6g%2F1yw5%2FUlP80JyPMJY3IhgGVCorqQN7oPelGXJzmUCuICDmkq8Z%2BkZu5xfaWph0S00eEoSrdkYuZtqMxi9ywtDEhUA6HqE7m9qpxn1hOe27iihE0qReCwMugCkpBGVEACaJckfbwCEeETUf42Vp7s%2F%2BlJ69l9ppsF5zFB1C%2BJ9O%2Fm%2Bl5x0ayB%2FwFVBeeJG8SVTEU9hajL7k7G8lt%2FZJHcJA%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Peking University/Baidu - Autonomous Driving\\
+\\
+Can you predict vehicle angle in different settings? Featured · 864 Teams · 5 years ago](https://www.kaggle.com/competitions/pku-autonomous-driving)
+
+
+
+
+
+
+187/864
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for ryunosukeishizaki](https://storage.googleapis.com/kaggle-avatars/thumbnails/2730705-kg.png?t=2024-02-18-06-37-56)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/12863/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=CseF8afjC2N9scXQSe5wxXxR0RhFgcUvYXzW1OEwg3iAj1FhOUyoGtkXB93h4ewb9sMZuAn5Ep1hJeRsa2vkIgCNqXulAPt%2F2ay49hTDVUPSumReV0FS0EICr%2FRvUQd%2Bx7P0wupSEtBPU4LnVi9jnZyFPjeQQwtZFoEIUeTuhe1bu9D%2BiAC%2BHedBCsyXKzlAgtr1FTt%2FfnjkANUJKY7JrIeqHajrgsiQADCAVuorsEN7fMV6FAbs5%2B2AYQ8IzUAh9Ha5443wbjXHPVQIp8waaRztsqJOTWENjeeQmr%2BXTKMX40EcmIFxDlAgnrMUUcadrD8SNH3naowxH8edjQZeNQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+TensorFlow - Help Protect the Great Barrier Reef \\
+\\
+Detect crown-of-thorns starfish in underwater image data Research · Code Competition · 2025 Teams · 3 years ago](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef)
+
+
+
+
+
+
+216/2025
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for ryunosukeishizaki](https://storage.googleapis.com/kaggle-avatars/thumbnails/2730705-kg.png?t=2024-02-18-06-37-56)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/37077/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=IpX5jxzckCWJVQCp3YTnYFa74tVMG0E1JQJKypRfSVru2crWcSkjIvV1Xcl8RqucUOjiuQuX8OzUr5PlPuuYKucjeHsQHgaliKG%2FWIunvB7UoRdfqN3WwwXSnjtG9%2BnwDthbb%2BBQ2fMKpwPrB0XX%2BoECKxdMfm3Oa94NrHzms4K7pi1grodwsIvL%2Bo64QO4RGKn5GwprAm%2FU6mtts%2F66uNbSjC%2B712aWD%2BtMnB6RBIbwTt74TaTTXpKH%2Fl3ObNKcT14XT4OpL3RDgw7r0k%2FjRWu9Aovni0cJjINpQk5Jp5iijS8bgv4ildXDEHTIGzOLvUPcR1AQpzUnKXqjHdzyDA%3D%3D)\\
+\\
+emoji\_events\\
+\\
+G2Net Detecting Continuous Gravitational Waves\\
+\\
+Help us detect long-lasting gravitational-wave signals! Research · 936 Teams · 3 years ago](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves)
+
+
+
+
+
+
+577/936
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/14242/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=kZmYPlLfJ5g7PBLyxb2mtW%2FGc%2BbFAH6ZB6AwUgzvzE90d75nhSA5B%2Bf0R8WO1kbyfIVRGw5%2B0OMNmWeB9LTHKYojkGuLxeSCpwIrhL7qRQlN7ZLLzm11CzK40z7a94o9zzmOZnEW68kjeUCwgEdlsK4v8bl9UrKCZmPuPlGZG4xeRHUipmYoVjnp6WA3%2FmFvrxpjaZ2%2FMacwy7aZx6BrfVyGfsRqQQC9rAxhxnehX%2B9C5dILbh35H6YydQTExs4NaP%2FDZfa77aRLrg4TR7z%2BpHH0bGUzbx3tdb4BedVtrsQ1JDdMjY%2FILLRfEvkyuchWOC%2FLwooAO%2BOO9ypdqNtpOw%3D%3D)\\
+\\
+emoji\_events\\
+\\
+IEEE-CIS Fraud Detection\\
+\\
+Can you detect fraud from customer transactions? Research · 6351 Teams · 6 years ago](https://www.kaggle.com/competitions/ieee-fraud-detection)
+
+
+
+
+
+
+1241/6351
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/10445/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=WprFxmgG%2Bju6Ya%2Bo1zHS1%2FMNjgOaOhWP0W2VV%2BBQLfjHM7p4i%2FFl49003mvZCRyaGCFzHlYPbeivPuJHm8vXxYBI71WPAToAsv1hc3BfE3o0X9rcy1C9r4a7f%2BxlbyF6NLGV4HyzUWGMfA5co3oJOsiO0Td3X7Kb9qh8SUAgfuoluCdYd0MxTAm6umIkdb1KitJePdxinojDzZSD4yxdkfawt4C5Z%2B6gxuCzolXVqjCKl7on8OMz8%2FJ5ZFj3%2FGLhEH2yqJnfXeWS%2Fk6GDSivPTRaRSy%2BlwWjedDoe0xrMPIMC65FDlEFqC%2FqnQuCBkHWeZjEdHF01TSHhTM8yNeULA%3D%3D)\\
+\\
+emoji\_events\\
+\\
+Elo Merchant Category Recommendation\\
+\\
+Help understand customer loyalty Featured · 4110 Teams · 6 years ago](https://www.kaggle.com/competitions/elo-merchant-category-recommendation)
+
+
+
+
+
+
+1277/4110
+
+
+
+
+
+
+
+
+![Profile picture for icemekaveli](https://storage.googleapis.com/kaggle-avatars/thumbnails/1613805-kg.jpg)
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/22111/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=C9VpCGxuUn9pmqGzLTjB%2BI3wXYOaKLmm7w%2BmYG2O2rqZsdyBPd1jRdYV7sIs%2FYAdGGpkypj1Ik4LkjFdUQIFQt%2FUukifWK5w0%2BU4YoJFsHxd5gUAAu4LIui459I07ASyety9y0lZS0jt9xmWjzwZKQv0VzrJKVVKlbUj6kRnA%2Bmd661ljRhp8HzayP3d71daH3MssV%2F8EKJVnpzvKeLkchzUjfTopUPQXj5RJMuOLCnZ71792nWiXKp2yf3l5dwxROKgT7PoqQm9wl7tYfr7AyymkHFVWusvMDyYgE%2FOw%2Byq3ej5WWMTUSfkdWSnW%2FNsA7dy2k4THNLFU8tcdJbIdA%3D%3D)\\
+\\
+emoji\_events\\
+\\
+OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction\\
+\\
+Urgent need to bring the COVID-19 vaccine to mass production Research · 1636 Teams · 5 years ago](https://www.kaggle.com/competitions/stanford-covid-vaccine)
+
+
+
+
+
+
+1293/1636
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+![Profile picture for ryunosukeishizaki](https://storage.googleapis.com/kaggle-avatars/thumbnails/2730705-kg.png?t=2024-02-18-06-37-56)
+
+
+
+more\_horiz
+
+- [![](https://storage.googleapis.com/kaggle-competitions/kaggle/10151/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1752867049&Signature=R76e410IjUrwGKnzZKMAWQ7o4Ct0pOcE4to6M0wqdyA02Uk2ONBYBvCDofhBt29f8m5dAS6Me3nGuBBW3SlBY%2Fo5CM3G6%2FWkV2ArOACVHBXXwYEKwu6N6yur1Xb3ZsrC4CWIjQVu3%2BB%2Fwt2DnwxXEfaU%2BjSdsbOxC%2BZNAOJEh73lO%2BJEtLb0CwVl2dOxHqWKBTJ%2BgcARMIijbDLtFJKvxgEtobpqz7s%2FW5F93bGqBTarBxJHHjij3TQWiDovM8rsv%2Fh7%2FCuMdhlnhfN%2FhO%2FIEivCZtoRHlEpWv05NymFYK4yowi8cO4hXTBdvluoiZehpTXKrO1z%2ByEorRxY%2FY25rQ%3D%3D)\\
+\\
+emoji\_events\\
+\\
+TGS Salt Identification Challenge\\
+\\
+Segment salt deposits beneath the Earth's surface Featured · 3219 Teams · 7 years ago](https://www.kaggle.com/competitions/tgs-salt-identification-challenge)
+
+
+
+
+
+
+1600/3219
+
+
+
+
+
+
+
+
+![Profile picture for rinnqd](https://storage.googleapis.com/kaggle-avatars/thumbnails/1786637-kg.jpg)
+
+
+
+more\_horiz
+
+
+- 1
+- 2
+
+### Firas Baba
+
+rinnqd
+
+### Competitions    Master
+
+![](https://www.kaggle.com/static/images/tiers/master.svg)
+
+Medals
+
+![](https://www.kaggle.com/static/images/medals/competitions/goldl@2x.png)2
+
+![](https://www.kaggle.com/static/images/medals/competitions/silverl@2x.png)9
+
+![](https://www.kaggle.com/static/images/medals/competitions/bronzel@2x.png)1
+
+Rank
+
+1,664
+
+of 203,056
+
+22
+
+highest ever
+
+Activity
+
+10competitions solo
+
+19competitions in a team
+
+0competitions hosted
